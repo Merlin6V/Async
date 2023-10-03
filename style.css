@@ -1,0 +1,17 @@
+time{ 
+    position: absolute;
+   margin-top: 200px;
+   margin-left: 300px;
+    border-radius: 2px;
+   padding: 40px;
+   justify-content:space-between;
+   text-align: center;
+   font-size: 2em;
+   font-style: italic;
+   width: 600px;
+   height: 200px;
+   background-image: linear-gradient(to bottom,darkorange,white,rgb(13, 241, 13));
+   
+}
+
+
